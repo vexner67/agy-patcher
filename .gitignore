@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.patcher-test-*/
+.agy-build-*/
+.entitlements-*/
+/build-*/
+*.app/
+*.original
+manifest.json
+.venv/
